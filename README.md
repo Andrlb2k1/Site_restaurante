@@ -1,2 +1,2 @@
 # Site_restaurante
-Site responsivo de um restaurante, feito com HTML, CSS e JavaScript.
+Site responsivo de um restaurante, feito com HTML, CSS e JavaScript (apenas frontend).
